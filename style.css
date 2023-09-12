@@ -10,7 +10,7 @@
     justify-content: center;
     display: flex;
     align-items: center;
-    background: rgba(163, 5, 5, 0.679);
+    background: rgba(5, 163, 163, 0.679);
 }
 #left , #right{
     width: 300px;
@@ -20,7 +20,7 @@
 
 }
 .list{
-    background: rgb(49, 150, 94);
+    background: rgb(150, 49, 133);
     cursor: grab;
     align-items: center;
     display: flex;
